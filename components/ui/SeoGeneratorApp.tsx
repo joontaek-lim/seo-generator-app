@@ -1,0 +1,1 @@
+<SeoGeneratorApp code from canvas>
